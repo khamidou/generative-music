@@ -1,0 +1,4 @@
+Le projet nécessite les programmes suivants pour fonctionner :
+- python (2.5+)
+- midicsv (disponible sur http://fourmilab.ch/webtools/midicsv/)
+- python-mingus pour génerer la ligne de basse
