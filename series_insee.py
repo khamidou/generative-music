@@ -137,4 +137,4 @@ if __name__ == "__main__":
 	l = process_input(read_file(sys.argv[1]))
 	del l[0] # Enlève un déchet qui est là je ne sais pas
 		# trop pourquoi
-	genmidi.generate_drum_track(l, "out.mid")
+	genmidi.generate_piano_track(l, "out.mid")
